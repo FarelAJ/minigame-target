@@ -6,7 +6,8 @@
   "scripts": {
     "build": "tsc",
     "watch": "tsc -w",
-    "start": "tsc && http-server"
+    "start": "python server.py",
+    "dev": "tsc && python server.py"
   },
   "devDependencies": {
     "typescript": "^5.0.0",
