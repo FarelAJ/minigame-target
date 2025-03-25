@@ -10,7 +10,7 @@
     "dev": "tsc && python server.py"
   },
   "devDependencies": {
-    "typescript": "^5.0.0",
-    "http-server": "^14.1.1"
+    "http-server": "^14.1.1",
+    "typescript": "^5.8.2"
   }
 }
