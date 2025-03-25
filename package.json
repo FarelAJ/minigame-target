@@ -10,6 +10,7 @@
     "dev": "tsc && python server.py"
   },
   "devDependencies": {
+    "@types/node": "^22.13.13",
     "http-server": "^14.1.1",
     "typescript": "^5.8.2"
   }
